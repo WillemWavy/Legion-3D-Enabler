@@ -1,0 +1,17 @@
+# PyInstaller build output
+build/
+dist/
+*.spec
+
+# Lenovo's proprietary support files - never commit these (see README)
+3D_Files/
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor/OS cruft
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
