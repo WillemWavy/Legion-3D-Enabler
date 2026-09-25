@@ -52,6 +52,16 @@ still what drives the 3D display while you play.
 - [Python 3.9+](https://www.python.org/) if running from source or building
   it yourself (not required if you're just using a pre-built `.exe`)
 
+## Download
+
+Grab the latest `.exe` from the [Releases page](https://github.com/WillemWavy/Legion-3D-Enabler/releases) —
+no Python or build step needed.
+
+Windows will likely show a "Windows protected your PC" SmartScreen warning
+the first time you run it, since the exe isn't code-signed. Click
+**More info → Run anyway** to proceed. This is expected for small,
+independently-published tools and not a sign anything's wrong.
+
 ## Getting Started
 
 ### Option 1 — Run from source
